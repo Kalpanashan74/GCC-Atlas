@@ -1,0 +1,24 @@
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Node dependencies and builds
+node_modules/
+dist/
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Local development files
+.DS_Store
+Thumbs.db
+.vscode/
+
