@@ -1,6 +1,6 @@
 
 import { useState } from "react";
-import Dashboard from "./pages/Dashboard";
+import Dashboard from "./pages/dashboard";
 import Explorer from "./pages/Explorer";
 import CityComparison from "./pages/CityComparison";
 import Assistant from "./pages/Assistant";
